@@ -1,0 +1,11 @@
+#satu {
+	/*border-style: dotted;*/
+	border-style: dashed;
+	border-width: 10px;
+	border-top-style: dotted;
+}
+
+/*size , style , color*/
+/*#satu {
+	border: 10px dashed red;
+}*/

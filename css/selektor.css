@@ -1,0 +1,21 @@
+/*pengenlanan tag, id, class*/
+
+/*
+
+ciri khas id dengan tanda #
+ciri khas class dengan tanda .
+
+*/
+
+h1 {
+	color: red;
+}
+
+#heading {
+	color: blue;
+	font-size: 35px;
+}
+
+.list {
+	color: green;	
+}

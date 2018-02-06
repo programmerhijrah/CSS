@@ -1,0 +1,15 @@
+/*belajar css font*/
+
+h1 {
+	font-family: arial;
+}
+
+#satu {
+	font-size: 40px;
+}
+
+/*400 = normal , 700=bold;*/
+
+#dua {
+	font-weight: 700;
+}

@@ -1,0 +1,13 @@
+/*ekternal css pengenalan.html*/
+
+/* struktur dasar
+
+ selektor {
+ 	attribute :nilai;
+ }
+
+ */
+
+p {
+	font-size: 50px;
+}

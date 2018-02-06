@@ -1,0 +1,21 @@
+/*z-index*/
+
+#satu {
+	background-color: yellow;
+	position: absolute;
+	top: 10px;
+	left: 20px;
+	z-index: 1;
+}
+
+#dua {
+	background-color: yellow;
+	position: absolute;
+	top: 100px;
+	left: 20px;
+	z-index: -2;
+}
+
+#tiga {
+	background-color: yellow;
+}

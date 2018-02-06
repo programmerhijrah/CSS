@@ -1,0 +1,36 @@
+/*posisi : relative , fixed , absolute, static*/
+
+
+#satu {
+	background-color: yellow;
+	position: relative;
+	top: 10px;
+	left: 20px;
+}
+
+/*
+fixed : tergantung pada browser
+anti scroll
+posisi awal dianggap hilang*/
+
+#dua {
+	background-color: yellow;
+	position: fixed;
+	top: 100px;
+	left: 20px;
+}
+
+/*absolute :
+posisi awal dianggap hilang
+ikut-scroll
+koordinat tergantung ?
+1. browser
+2.parent element . 2a punya parent element
+				   2b parentnya tidak boleh static	*/
+
+#tiga {
+	background-color: yellow;
+	position: absolute;
+	top: 50px;
+	left: 20px;
+}

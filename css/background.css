@@ -1,0 +1,9 @@
+/*contoh css untuk background*/
+
+body {
+	background-color: yellow;
+	background-image: url("../image/pic_mountain.jpg");
+	background-repeat: repeat-x;
+	background-position: right top;
+	/*background: yellow url("../image/pic_mountain.jpg") repeat-y right; */
+}

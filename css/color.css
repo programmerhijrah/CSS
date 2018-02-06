@@ -1,0 +1,17 @@
+/*belajar css warna*/
+ /*nama , hexa , rgba*/
+
+h1 {
+ 	color: red;
+ 	font-size: 50px;
+ }
+
+p {
+	color: #CC733b;
+	font-size: 50px;
+}
+
+li {
+	color: rgb(0,255,0);
+	font-size: 50px;
+}
